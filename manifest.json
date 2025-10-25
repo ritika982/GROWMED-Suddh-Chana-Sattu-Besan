@@ -1,0 +1,11 @@
+{
+  "short_name": "SudhChana",
+  "name": "Sudh Chana Products",
+  "icons": [
+    { "src": "LOGO.jpg", "sizes": "192x192", "type": "image/jpeg" }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e67e22"
+}
